@@ -1,5 +1,4 @@
-{
-  "accounts": [
-    { "user": "dryzxmods", "pass": "1" }
-  ]
-}
+[
+  { "username": "admin", "password": "123", "role": "owner" },
+  { "username": "user", "password": "123", "role": "user" }
+]
